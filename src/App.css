@@ -1,0 +1,6 @@
+.app {
+    max-width: 80vw;
+    margin: 0 auto;
+    background-color: var(--main-color);
+    color: var(--accent-color);
+}
